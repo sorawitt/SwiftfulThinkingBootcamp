@@ -24,6 +24,7 @@
 		22F8B3B3287ED01700283C4E /* SpacerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22F8B3B2287ED01700283C4E /* SpacerBootcamp.swift */; };
 		22F8B3B5287ED5AA00283C4E /* InitializerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22F8B3B4287ED5AA00283C4E /* InitializerBootcamp.swift */; };
 		22F8B3B7287ED8A300283C4E /* ForEachBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22F8B3B6287ED8A300283C4E /* ForEachBootcamp.swift */; };
+		22F8B3B9287EDB5500283C4E /* ScrollViewBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22F8B3B8287EDB5500283C4E /* ScrollViewBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -45,6 +46,7 @@
 		22F8B3B2287ED01700283C4E /* SpacerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpacerBootcamp.swift; sourceTree = "<group>"; };
 		22F8B3B4287ED5AA00283C4E /* InitializerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InitializerBootcamp.swift; sourceTree = "<group>"; };
 		22F8B3B6287ED8A300283C4E /* ForEachBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForEachBootcamp.swift; sourceTree = "<group>"; };
+		22F8B3B8287EDB5500283C4E /* ScrollViewBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -92,6 +94,7 @@
 				22F8B3B2287ED01700283C4E /* SpacerBootcamp.swift */,
 				22F8B3B4287ED5AA00283C4E /* InitializerBootcamp.swift */,
 				22F8B3B6287ED8A300283C4E /* ForEachBootcamp.swift */,
+				22F8B3B8287EDB5500283C4E /* ScrollViewBootcamp.swift */,
 				22DA692F287C605600E37EF1 /* Assets.xcassets */,
 				22DA6931287C605600E37EF1 /* Preview Content */,
 			);
@@ -178,6 +181,7 @@
 			files = (
 				22D1CF00287DAC2F003A900C /* GradientsBootcamp.swift in Sources */,
 				22DA6940287C6F0E00E37EF1 /* ColorBootcamp.swift in Sources */,
+				22F8B3B9287EDB5500283C4E /* ScrollViewBootcamp.swift in Sources */,
 				22D1CF06287DB859003A900C /* FrameBootcamp.swift in Sources */,
 				22DA693E287C6BA300E37EF1 /* ShapesBootcamp.swift in Sources */,
 				22F8B3B1287EC47D00283C4E /* PaddingAndSpacerBootcamp.swift in Sources */,
