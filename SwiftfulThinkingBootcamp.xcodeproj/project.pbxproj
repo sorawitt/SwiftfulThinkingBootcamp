@@ -22,6 +22,7 @@
 		22F8B3AF287EBC3C00283C4E /* StacksBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22F8B3AE287EBC3C00283C4E /* StacksBootcamp.swift */; };
 		22F8B3B1287EC47D00283C4E /* PaddingAndSpacerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22F8B3B0287EC47D00283C4E /* PaddingAndSpacerBootcamp.swift */; };
 		22F8B3B3287ED01700283C4E /* SpacerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22F8B3B2287ED01700283C4E /* SpacerBootcamp.swift */; };
+		22F8B3B5287ED5AA00283C4E /* InitializerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22F8B3B4287ED5AA00283C4E /* InitializerBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -41,6 +42,7 @@
 		22F8B3AE287EBC3C00283C4E /* StacksBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StacksBootcamp.swift; sourceTree = "<group>"; };
 		22F8B3B0287EC47D00283C4E /* PaddingAndSpacerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaddingAndSpacerBootcamp.swift; sourceTree = "<group>"; };
 		22F8B3B2287ED01700283C4E /* SpacerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpacerBootcamp.swift; sourceTree = "<group>"; };
+		22F8B3B4287ED5AA00283C4E /* InitializerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InitializerBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +88,7 @@
 				22F8B3AE287EBC3C00283C4E /* StacksBootcamp.swift */,
 				22F8B3B0287EC47D00283C4E /* PaddingAndSpacerBootcamp.swift */,
 				22F8B3B2287ED01700283C4E /* SpacerBootcamp.swift */,
+				22F8B3B4287ED5AA00283C4E /* InitializerBootcamp.swift */,
 				22DA692F287C605600E37EF1 /* Assets.xcassets */,
 				22DA6931287C605600E37EF1 /* Preview Content */,
 			);
@@ -175,6 +178,7 @@
 				22D1CF06287DB859003A900C /* FrameBootcamp.swift in Sources */,
 				22DA693E287C6BA300E37EF1 /* ShapesBootcamp.swift in Sources */,
 				22F8B3B1287EC47D00283C4E /* PaddingAndSpacerBootcamp.swift in Sources */,
+				22F8B3B5287ED5AA00283C4E /* InitializerBootcamp.swift in Sources */,
 				22DA692E287C605200E37EF1 /* ContentView.swift in Sources */,
 				22DA693C287C66B200E37EF1 /* TextBootcamp.swift in Sources */,
 				22DA692C287C605200E37EF1 /* SwiftfulThinkingBootcampApp.swift in Sources */,
