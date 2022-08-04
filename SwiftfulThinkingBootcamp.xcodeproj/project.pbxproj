@@ -17,6 +17,7 @@
 		22429E02289BF34300D98615 /* DatePickerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22429E01289BF34300D98615 /* DatePickerBootcamp.swift */; };
 		22429E04289BF4C200D98615 /* StepperBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22429E03289BF4C200D98615 /* StepperBootcamp.swift */; };
 		22429E06289BF6D000D98615 /* SliderBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22429E05289BF6D000D98615 /* SliderBootcamp.swift */; };
+		22429E08289BF86300D98615 /* TabviewBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22429E07289BF86300D98615 /* TabviewBootcamp.swift */; };
 		2247754928805EC3002C7902 /* BindingBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2247754828805EC3002C7902 /* BindingBootcamp.swift */; };
 		2247754B2880624F002C7902 /* ConditionalBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2247754A2880624F002C7902 /* ConditionalBootcamp.swift */; };
 		2247754D288064B6002C7902 /* TernaryBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2247754C288064B6002C7902 /* TernaryBootcamp.swift */; };
@@ -65,6 +66,7 @@
 		22429E01289BF34300D98615 /* DatePickerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatePickerBootcamp.swift; sourceTree = "<group>"; };
 		22429E03289BF4C200D98615 /* StepperBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StepperBootcamp.swift; sourceTree = "<group>"; };
 		22429E05289BF6D000D98615 /* SliderBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SliderBootcamp.swift; sourceTree = "<group>"; };
+		22429E07289BF86300D98615 /* TabviewBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabviewBootcamp.swift; sourceTree = "<group>"; };
 		2247754828805EC3002C7902 /* BindingBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BindingBootcamp.swift; sourceTree = "<group>"; };
 		2247754A2880624F002C7902 /* ConditionalBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConditionalBootcamp.swift; sourceTree = "<group>"; };
 		2247754C288064B6002C7902 /* TernaryBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TernaryBootcamp.swift; sourceTree = "<group>"; };
@@ -176,6 +178,7 @@
 				22429E01289BF34300D98615 /* DatePickerBootcamp.swift */,
 				22429E03289BF4C200D98615 /* StepperBootcamp.swift */,
 				22429E05289BF6D000D98615 /* SliderBootcamp.swift */,
+				22429E07289BF86300D98615 /* TabviewBootcamp.swift */,
 				22DA692F287C605600E37EF1 /* Assets.xcassets */,
 				22DA6931287C605600E37EF1 /* Preview Content */,
 			);
@@ -287,6 +290,7 @@
 				22DA692C287C605200E37EF1 /* SwiftfulThinkingBootcampApp.swift in Sources */,
 				22D1CF04287DB1D9003A900C /* ImageBootcamp.swift in Sources */,
 				22844CFA289AAC3200560E36 /* ToggleBootcamp.swift in Sources */,
+				22429E08289BF86300D98615 /* TabviewBootcamp.swift in Sources */,
 				224816392881AF6300B1ED60 /* AnimationsBootcamp.swift in Sources */,
 				229B4D1828955394003E7EA9 /* TransitionBootcamp.swift in Sources */,
 				22F8B3AF287EBC3C00283C4E /* StacksBootcamp.swift in Sources */,
